@@ -3,7 +3,7 @@
 version：1.0    
 
 #使用方式:  
-  1.安装Python运行环境
+  1.安装Python运行环境 https://www.python.org/downloads/  
   2.浏览器打开校园网登录页，打开开发者选项（f12）
   ![image](https://user-images.githubusercontent.com/37254173/160872034-4019d578-9285-4d32-8f37-73f40d647102.png)  
   3.登录校园网，抓取登录 GET_URL, 并复制保存
