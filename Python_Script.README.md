@@ -1,6 +1,7 @@
 # GAFA_校园网一键登录脚本
 
-version：1.0    
+version：1.0  
+releases:https://github.com/SHIELDXIE/GAFA_NetworkLoginScript/releases  
 
 #使用方式:  
   1.安装Python运行环境 https://www.python.org/downloads/  
