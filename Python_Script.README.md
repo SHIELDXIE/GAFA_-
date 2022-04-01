@@ -5,7 +5,8 @@ releases:https://github.com/SHIELDXIE/GAFA_NetworkLoginScript/releases
 
 ### 使用方式:  
   1.安装Python运行环境 https://www.python.org/downloads/    
-    安装运行库  
+    1.1（推荐）运行`lib_installer.py`自动安装运行库  
+    1.2//手动安装运行库  
     `pip install ping3`    
     `pip install requests`   
     `pip install win10toast`   
