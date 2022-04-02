@@ -9,6 +9,6 @@
   👉[点这里](https://github.com/SHIELDXIE/GAFA_NetworkLoginScript/blob/main/Browser_Scrip_v1.0_README.md) 
   
 ## Python版 v1.2
-//部署过程*略微*麻烦，但使用效果最好
+//部署过程*略微*麻烦，但使用体验最好
   👉[点这里](https://github.com/SHIELDXIE/GAFA_NetworkLoginScript/blob/main/Python_Script.README.md)
 
