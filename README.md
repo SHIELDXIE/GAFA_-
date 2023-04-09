@@ -12,3 +12,5 @@
 //部署过程*略微*麻烦，但使用体验最好
   👉[点这里](https://github.com/SHIELDXIE/GAFA_NetworkLoginScript/blob/main/Python_Script.README.md)
 
+## Python v2.0 (beta)
+//有图形界面
